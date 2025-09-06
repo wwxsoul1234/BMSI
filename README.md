@@ -63,7 +63,7 @@ Run OIF.py
  1.Optimum band selection for multispectral images in ten bands to print band combinations. 
  2.Fusion of spectral images from the three best bands to form a pseudo-coloured spectral image.  
 
-![输入图片说明](pictures\1.png)
+![输入图片说明]([pictures\1.png](https://github.com/wwxsoul1234/BMSI/blob/master/pictures/1.png))
   
   
 ### -Image segmentation  
@@ -153,7 +153,7 @@ python==3.6
 运行 OIF.py 程序  
  1.对十个波段的多光谱图像进行最佳波段选择，得到波段组合。  
  2.将三个最佳波段的光谱图像融合形成一个伪彩的光谱图像。  
-![输入图片说明](pictures\1.png)
+![输入图片说明]([pictures\1.png](https://github.com/wwxsoul1234/BMSI/blob/master/pictures/1.png))
   
   
 ### -图像分割  
