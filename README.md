@@ -69,17 +69,18 @@ Run OIF.py
 ### -Image segmentation  
  Run seg-hsv.py, Image segmentation based on fused images and HSV colour space.
 
- ![输入图片说明](pictures\2.png)
+ ![输入图片说明](https://github.com/wwxsoul1234/BMSI/blob/master/pictures/2.png)
+ 
 ### -4D data 
 Run BMSI.py   
 1.3D reconstruction based on binocular disparity and calibration parameters of the camera.  
 2.The 3D data and spectral data were fused to obtain 4D data. 
 
-![输入图片说明](pictures\3.png)
+![输入图片说明](https://github.com/wwxsoul1234/BMSI/blob/master/pictures/3.png)
 
 3.after closing “figure 1", Clicking on the leaf in the "left" window displays the 3D coordinates and spectral distribution of the point on the leaf. 
 
-![输入图片说明](pictures\4.png)
+![输入图片说明](https://github.com/wwxsoul1234/BMSI/blob/master/pictures/4.png)
   
 
 
@@ -153,18 +154,24 @@ python==3.6
 运行 OIF.py 程序  
  1.对十个波段的多光谱图像进行最佳波段选择，得到波段组合。  
  2.将三个最佳波段的光谱图像融合形成一个伪彩的光谱图像。  
-![输入图片说明]([pictures\1.png](https://github.com/wwxsoul1234/BMSI/blob/master/pictures/1.png))
+ 
+![输入图片说明](https://github.com/wwxsoul1234/BMSI/blob/master/pictures/1.png))
   
   
 ### -图像分割  
- 运行 seg-hsv.py  程序，基于融合图像和HSV 颜色空间进行图像分割。  
- ![输入图片说明](pictures\2.png)
+ 运行 seg-hsv.py  程序，基于融合图像和HSV 颜色空间进行图像分割。 
+ 
+ ![输入图片说明](https://github.com/wwxsoul1234/BMSI/blob/master/pictures/2.png)
+ 
 ### -4D数据  
 运行BMSI.py   
 1.基于双目视差和相机的标定参数进行三维重建。  
 2.将三维数据和光谱数据进行融合得到4D数据。
-![输入图片说明](pictures\3.png)
-3.关闭”figure 1“窗口,鼠标点击"left"图窗内叶片的某个位置，显示该点的三维坐标和光谱分布。  
-![输入图片说明](pictures\4.png)
+
+![输入图片说明](https://github.com/wwxsoul1234/BMSI/blob/master/pictures/3.png)
+
+3.关闭”figure 1“窗口,鼠标点击"left"图窗内叶片的某个位置，显示该点的三维坐标和光谱分布。 
+
+![输入图片说明](https://github.com/wwxsoul1234/BMSI/blob/master/pictures/4.png)
   
 
